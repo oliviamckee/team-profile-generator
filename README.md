@@ -6,7 +6,7 @@ This is an application that uses Node.JS and the inquirer package to generate an
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Walkthrough](#walkthrough)
 - [License](#license)
 - [Questions](#questions)
 
@@ -16,7 +16,8 @@ Navigate to the [github repository](https://github.com/oliviamckee/team-profile-
 ## Usage 
 Type 'node index' into your command line and answer the prompts to generate a team profile HTML file. 
 
-## Credits 
+## Walkthrough 
+[video](https://drive.google.com/file/d/1i9SpMhazQl7seJ9eiWZ_B_egEmAUllhF/view)
 
 ## License
 This application is covered under the MIT License. 
